@@ -1,0 +1,4 @@
+Esto es una linea!
+Este es un archivo para leer
+Nota: Practicantes de archivos
+Lenguaje Java
